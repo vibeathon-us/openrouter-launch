@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 #
 # openrouter-launch installer
-# https://github.com/vibeathon-us/openrouter-launch
+# https://github.com/CodefiLabs/openrouter-launch
 #
-# Usage: curl -fsSL https://raw.githubusercontent.com/vibeathon-us/openrouter-launch/main/install.sh | bash
+# Usage: curl -fsSL https://raw.githubusercontent.com/CodefiLabs/openrouter-launch/main/install.sh | bash
 #
 
 set -euo pipefail
@@ -12,7 +12,7 @@ set -euo pipefail
 # Configuration
 #######################################
 
-REPO="vibeathon-us/openrouter-launch"
+REPO="CodefiLabs/openrouter-launch"
 SCRIPT_NAME="openrouter-launch"
 SYMLINK_NAME="or-launch"
 

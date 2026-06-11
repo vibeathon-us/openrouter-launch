@@ -1,5 +1,5 @@
 # Makefile for openrouter-launch
-# https://github.com/vibeathon-us/openrouter-launch
+# https://github.com/CodefiLabs/openrouter-launch
 
 PREFIX ?= /usr/local
 BINDIR := $(PREFIX)/bin
